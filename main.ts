@@ -1,7 +1,7 @@
 // A news-image-daily entry (Node 22, standard library only): the image is the
-// entry.png beside this file, drawn by draw_poster.py from the world news of
+// entry.png beside this file, drawn by draw_poster_v2.py from the world news of
 // Friday 20 November 2026, and the program copies it to /output/entry.png.
-// To redraw the image after changing a story, run `python3 draw_poster.py`
+// To redraw the image after changing a story, run `python3 draw_poster_v2.py`
 // first; the program itself needs no network and always copies the same bytes.
 // The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels,
 // and the judge sees exactly the bytes copied.
